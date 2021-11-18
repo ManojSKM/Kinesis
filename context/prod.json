@@ -1,0 +1,15 @@
+{
+    "context-variables": {
+        "ENCRYPTED_VARIABLES_LIST": [
+            "ssopassword"
+        ],
+        "TABLEAU_PROJECT": "",
+        "TABLEAU_PWD": "3hZVPL4dUUz1uh/KprezwRo=;encrypted",
+        "TABLEAU_SITE": "",
+        "TABLEAU_URL": "http://analytics.theglobalfund.org",
+        "TABLEAU_USER": "MSk",
+        "TABLEAU_VERSION": "2021.3",
+        "ssopassword": "wxVaVf4iZ37V+wTBtrfT;encrypted",
+        "ssousername": "tabsvcprod@gf.theglobalfund.org"
+    }
+}
